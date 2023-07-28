@@ -154,6 +154,11 @@ body {
     color: var(--cor-de-fundo);
 }
 
-.descricao__titulo-texto {
+.descricao_titulo_texto {
     text-align: left;
+    font-size: 48px;
+    color: var(--branco-principal);
+}
+.principal_Background {
+    width: 100%;
 }
