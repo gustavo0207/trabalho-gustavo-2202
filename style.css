@@ -162,10 +162,12 @@ body {
 .principal_Background {
     width: 100%;
 }
-@media screen end(
+@media screen and(
     max-width: 750px;
 ){
-    grid-template-columns: 100%;
-    margin: 0 1em;
+    
+h1{
+
+}
 
 }
