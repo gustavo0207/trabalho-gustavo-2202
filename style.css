@@ -163,3 +163,40 @@ body {
     width: 100%;
 }
 
+@media screen and (max-width: 768px) {
+    body {
+        font-size: 14px ;
+        text-align: left;
+    }
+
+    .container {
+        /* Ajuste de layout para dispositivos móveis */
+    }
+
+    .container__caixa {
+        /* Ajuste de margem para dispositivos móveis */
+    }
+
+    .container__titulo {
+        /* Ajuste de tamanho de fonte para dispositivos móveis */
+    }
+
+    .container__imagem {
+        /* Ajuste de margem para dispositivos móveis */
+    }
+
+    .descricao__titulo {
+        /* Ajuste de tamanho de fonte para dispositivos móveis */
+    }
+
+    .descricao__texto {
+        /* Ajuste de tamanho de fonte para dispositivos móveis */
+    }
+
+    /* Adicione mais ajustes específicos para dispositivos móveis conforme necessário */
+
+    /* Estilos para dispositivos móveis da classe .secundario__imagem */
+    .secundario__imagem {
+        width: 100%; /* Ajuste para que a imagem ocupe a largura completa da tela */
+    }
+}
