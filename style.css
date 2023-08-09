@@ -164,10 +164,9 @@ body {
 }
 @media screen and(
     max-width: 750px;
-){
-    
-h1{
-
+)
+{
+     p(text-align: left: .container__aviso;)
 }
 
-}
+
