@@ -178,8 +178,7 @@ body {
     }
 
     .container__titulo {
-        /* Ajuste de tamanho de fonte para dispositivos móveis */
-    }
+      top: 20px;;
 
     .container__imagem {
         /* Ajuste de margem para dispositivos móveis */
