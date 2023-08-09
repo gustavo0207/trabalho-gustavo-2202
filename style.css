@@ -141,7 +141,7 @@ body {
     font-size: 14px;
 }
 
-.lista__link a:hover {
+.lista__link a:hover {container__aviso
     color: var(--botao-azul);
 }
 
@@ -159,14 +159,12 @@ body {
     font-size: 48px;
     color: var(--branco-principal);
 }
-.principal_Background {
+.principal_Background {container__aviso
     width: 100%;
 }
 @media screen and(
     max-width: 750px;
 )
 {
-     p(text-align: left: .container__aviso;)
+    .container__titulo {font-size: 20px;}
 }
-
-
