@@ -162,9 +162,4 @@ body {
 .principal_Background {container__aviso
     width: 100%;
 }
-@media screen and(
-    max-width: 750px;
-)
-{
-    
-}
+
